@@ -50,6 +50,7 @@ public class ContactServiceImpl implements ContactService {
 
     public void delete(Contact contact) {
 
+
     }
 }
 
